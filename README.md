@@ -1,10 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Shashank Awasthy
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shashank%20Awasthy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Manager%20|%20Cloud%20Architect%20|%20Platform%20Engineering%20Leader&descAlignY=55&descSize=18" width="100%"/>
 
-### Software Engineering Manager | Cloud Architect | Platform Engineering Leader
+<!-- Alternative: Custom Header with Tech Stack -->
+<!-- Uncomment below and comment above if you prefer a different style -->
+<!--
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=SHASHANK+AWASTHY;Software+Engineering+Manager+%7C+Cloud+Architect" alt="Header"/>
+-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=15%2B+Years+Building+Scalable+Platforms;Leading+High-Performance+Engineering+Teams;Driving+Cloud-Native+Transformations;Architecting+Enterprise+Solutions;AWS+%26+Azure+Cloud+Expert;Passionate+About+Developer+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+a+Software+Engineering+Manager;15%2B+Years+Building+Scalable+Platforms;Leading+High-Performance+Engineering+Teams;Driving+Cloud-Native+Transformations;AWS+%26+Azure+Cloud+Expert;Passionate+About+Developer+Experience)](https://git.io/typing-svg)
+
+<br>
+
+<!-- Social Links -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashankawasthy)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatvik1766@gmail.com)
@@ -88,7 +97,7 @@ expertise:
 
 ### **Cloud & Infrastructure**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,helm,jenkins&perline=8" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins&perline=8" /></a>
 
 ### **DevOps & Tools**
 
@@ -152,10 +161,8 @@ Nginx • Apache Tomcat • JWT • Swagger • Firebase • Cloudflare
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank1766&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Shashank1766&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank1766&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
@@ -305,7 +312,7 @@ Learning & Research     1 hr 5 mins     █░░░░░░░░░░░░�
 
 [![Consulting](https://img.shields.io/badge/💼_Cloud_Consulting-Available-success?style=for-the-badge)](mailto:shatvik1766@gmail.com)
 [![Speaking](https://img.shields.io/badge/🎤_Speaking_Engagements-Open-blue?style=for-the-badge)](mailto:shatvik1766@gmail.com)
-[![Mentoring](https://img.shields.io/badge/🎓_Mentoring-Active-orange?style=for-the-badge)]([https://linkedin.com/in/shashankawasthy](https://www.linkedin.com/in/shashank-awasthy-86568417/))
+[![Mentoring](https://img.shields.io/badge/🎓_Mentoring-Active-orange?style=for-the-badge)](https://linkedin.com/in/shashankawasthy)
 [![Collaboration](https://img.shields.io/badge/🤝_Open_Source-Collaborating-blueviolet?style=for-the-badge)](https://github.com/Shashank1766)
 
 </div>
@@ -321,7 +328,7 @@ I'm always open to discussing **cloud architecture**, **platform engineering**, 
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="https://www.linkedin.com/in/shashank-awasthy-86568417/">
+  <a href="https://linkedin.com/in/shashankawasthy">
     <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/><br>
     <b>LinkedIn</b><br>
     <sub>Professional Network</sub>
@@ -375,7 +382,6 @@ I'm always open to discussing **cloud architecture**, **platform engineering**, 
 ### 💭 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 <br>
 
