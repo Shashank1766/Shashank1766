@@ -15,7 +15,7 @@
 
 <!-- Social Links -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashankawasthy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-awasthy-86568417/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatvik1766@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shashank1766)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
@@ -312,7 +312,7 @@ Learning & Research     1 hr 5 mins     █░░░░░░░░░░░░�
 
 [![Consulting](https://img.shields.io/badge/💼_Cloud_Consulting-Available-success?style=for-the-badge)](mailto:shatvik1766@gmail.com)
 [![Speaking](https://img.shields.io/badge/🎤_Speaking_Engagements-Open-blue?style=for-the-badge)](mailto:shatvik1766@gmail.com)
-[![Mentoring](https://img.shields.io/badge/🎓_Mentoring-Active-orange?style=for-the-badge)](https://linkedin.com/in/shashankawasthy)
+[![Mentoring](https://img.shields.io/badge/🎓_Mentoring-Active-orange?style=for-the-badge)](https://www.linkedin.com/in/shashank-awasthy-86568417/)
 [![Collaboration](https://img.shields.io/badge/🤝_Open_Source-Collaborating-blueviolet?style=for-the-badge)](https://github.com/Shashank1766)
 
 </div>
@@ -328,7 +328,7 @@ I'm always open to discussing **cloud architecture**, **platform engineering**, 
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="https://linkedin.com/in/shashankawasthy">
+  <a href="https://www.linkedin.com/in/shashank-awasthy-86568417/">
     <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/><br>
     <b>LinkedIn</b><br>
     <sub>Professional Network</sub>
