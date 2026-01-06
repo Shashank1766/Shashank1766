@@ -1,0 +1,36 @@
+name: Keep Repository Active
+
+on:
+  schedule:
+    # Runs every day at 02:00 UTC
+    - cron: "0 2 * * 2"
+  workflow_dispatch: # allows manual triggering
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update keepalive file
+        run: |
+          echo "Last automated update: $(date -u)" > .keepalive
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git add .keepalive
+            git commit -m "chore: automated keepalive update"
+            git push
+          fi
