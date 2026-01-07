@@ -3,7 +3,7 @@ name: Keep Repository Active
 on:
   schedule:
     # Runs every day at 02:00 UTC
-    - cron: "0 2 * * 2"
+    - cron: "0 2 * * *"
   workflow_dispatch: # allows manual triggering
 
 permissions:
