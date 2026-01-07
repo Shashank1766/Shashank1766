@@ -18,21 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-awasthy-86568417/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatvik1766@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shashank1766)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shashank1766&style=for-the-badge&color=blue)
-
-</div>
-
----
-
-## 🎯 Impact at a Glance
-
-<div align="center">
-
-| 💰 Cost Optimization | ⚡ Performance | 👥 Team Leadership | 📈 Delivery Speed |
-|:---:|:---:|:---:|:---:|
-| **$1M+ Saved** | **40% Less Downtime** | **25+ Engineers** | **30% Faster** |
 
 </div>
 
@@ -66,6 +52,42 @@ I'm a **Software Engineering Manager** passionate about building resilient platf
 </td>
 </tr>
 </table>
+
+---
+
+## 🎯 Impact at a Glance
+
+<div align="center">
+
+| 💰 Cost Optimization | ⚡ Performance | 👥 Team Leadership | 📈 Delivery Speed |
+|:---:|:---:|:---:|:---:|
+| **$1M+ Saved** | **40% Less Downtime** | **25+ Engineers** | **30% Faster** |
+
+</div>
+
+---
+
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Shashank1766&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Shashank1766)
+
+</div>
+
+---
 
 ### 🏆 Career Highlights
 
@@ -155,27 +177,7 @@ Nginx • Apache Tomcat • JWT • Swagger • Firebase • Cloudflare
 
 </details>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Shashank1766&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Shashank1766)
-
-</div>
-
----
 
 ## 🏅 Achievements & Recognition
 
