@@ -75,8 +75,6 @@ I'm a **Software Engineering Manager** passionate about building resilient platf
 
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Shashank1766&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
 </div>
 
 ### 📈 Contribution Activity
@@ -358,22 +356,6 @@ I'm always open to discussing **cloud architecture**, **platform engineering**, 
 <a href="mailto:shatvik1766@gmail.com">
   <img src="https://img.shields.io/badge/Response_Time-Within_24_Hours-brightgreen?style=for-the-badge&logo=gmail" alt="Response Time" />
 </a>
-
-</div>
-
----
-
-## 📈 Profile Insights
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shashank1766&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/Shashank1766?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/Shashank1766?style=for-the-badge&color=yellow)
-
-### 🔥 Contribution Heatmap
-
-[![Shashank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashank1766&theme=react-dark&hide_border=true&area=true)](https://github.com/Shashank1766)
 
 </div>
 
